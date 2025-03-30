@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{AA8E32B3-F5AA-43B9-B993-BEE45B979D10}|StrandWPF\\StrandWPF.csproj|solutionrelative:strandwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8E32B3-F5AA-43B9-B993-BEE45B979D10}|StrandWPF\\StrandWPF.csproj|c:\\users\\akos chan\\documents\\\u00F3ra\\online \u00F3ra\\strandc\\strandwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{AA8E32B3-F5AA-43B9-B993-BEE45B979D10}|StrandWPF\\StrandWPF.csproj|C:\\Users\\Akos Chan\\Documents\\\u00D3ra\\Online \u00D3ra\\StrandC\\strandwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AA8E32B3-F5AA-43B9-B993-BEE45B979D10}|StrandWPF\\StrandWPF.csproj|solutionrelative:strandwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{FCEA4F06-5378-41BF-8140-BB0978D98576}|StrandC\\StrandC.csproj|solutionrelative:strandc\\furdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{024EBBBB-C55E-4E6D-A9A0-7BE2CC0B0FEE}|StrandTest\\StrandTest.csproj|c:\\users\\akos chan\\documents\\\u00F3ra\\online \u00F3ra\\strandc\\strandtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{024EBBBB-C55E-4E6D-A9A0-7BE2CC0B0FEE}|StrandTest\\StrandTest.csproj|C:\\Users\\Akos Chan\\Documents\\\u00D3ra\\Online \u00D3ra\\StrandC\\strandtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{024EBBBB-C55E-4E6D-A9A0-7BE2CC0B0FEE}|StrandTest\\StrandTest.csproj|solutionrelative:strandtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,8 +81,7 @@
               "ToolTip": "C:\\Users\\Akos Chan\\Documents\\\u00D3ra\\Online \u00D3ra\\StrandC\\StrandWPF\\MainWindow.xaml",
               "RelativeToolTip": "StrandWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-30T14:01:19.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T14:01:19.864Z"
             },
             {
               "$type": "Document",
@@ -92,7 +91,7 @@
               "RelativeDocumentMoniker": "StrandWPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Akos Chan\\Documents\\\u00D3ra\\Online \u00D3ra\\StrandC\\StrandWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "StrandWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T14:01:19.753Z",
               "EditorCaption": ""
@@ -107,8 +106,7 @@
               "RelativeToolTip": "StrandTest\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T13:48:59.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T13:48:59.85Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "StrandC\\Furdo.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAACoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:20:09.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T12:20:09.137Z"
             },
             {
               "$type": "Document",

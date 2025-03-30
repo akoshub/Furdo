@@ -76,5 +76,6 @@ namespace StrandWPF
                 Pb_toltes.Value = kivalasztott.Vizhofok;
             }
         }
+
     }
 }
