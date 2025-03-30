@@ -1,0 +1,15 @@
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\bin\Debug\StrandWPF.exe.config
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\bin\Debug\StrandWPF.exe
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\bin\Debug\StrandWPF.pdb
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.csproj.AssemblyReference.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\App.g.cs
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF_MarkupCompile.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF_MarkupCompile.lref
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\MainWindow.baml
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.g.resources
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.Properties.Resources.resources
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.csproj.GenerateResource.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.csproj.CoreCompileInputs.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.exe
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandWPF\obj\Debug\StrandWPF.pdb

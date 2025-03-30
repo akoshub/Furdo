@@ -1,0 +1,7 @@
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\bin\Debug\StrandC.exe.config
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\bin\Debug\StrandC.exe
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\bin\Debug\StrandC.pdb
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\obj\Debug\StrandC.csproj.AssemblyReference.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\obj\Debug\StrandC.csproj.CoreCompileInputs.cache
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\obj\Debug\StrandC.exe
+C:\Users\Akos Chan\Documents\Óra\Online Óra\StrandC\StrandC\obj\Debug\StrandC.pdb
